@@ -1,0 +1,180 @@
+/* NAVBAR */
+
+.menuSite{
+  background-color:#212121;
+}
+
+#home .brand-logo{
+    font-size: 20px;
+    margin-left: 100px;
+    letter-spacing: 3px;
+    font-family: 'Roboto+Condensed', sans-serif;
+    color: #ffffff;
+}
+
+#home img{
+    width: 50px;
+    height: 50px;
+}
+
+.brand-logo span{
+    color: #00BCD4;
+
+}
+
+#home .ancora{
+    margin-right: 60px;
+    color: #E57373;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+
+#mobile-demo {
+    background-color: #212121;
+    color: #EF5350;
+
+}
+
+#mobile-demo .ancora{
+    font-size: 15px;
+}
+
+
+
+
+ /* ABOUT */
+.about{
+    text-align: center;
+    background-color: #EEEEEE;
+    padding: 50px 0 40px;
+    height: 100%;
+}
+
+
+#about h4{
+    font-family: 'Assistant', sans-serif;
+    padding: 10px;
+    font-weight: 700;
+    margin-bottom: 35px;
+    color: #ef5350;
+}
+
+#about p{
+    margin-top: 105px;
+    padding: 70px;
+    font-size: 18px;
+    font-family: 'Assistant', sans-serif;
+    background-color: #FAFAFA;
+    }
+
+#about img{
+  height: 250px;
+  width: 250px;
+  border-radius: 20%;
+  margin-bottom: 25px;
+}
+
+.services{
+    text-align: center;
+    background-color: #FAFAFA;
+    padding: 10px 0 60px;
+}
+
+.services h3{
+    color: #ef5350;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+
+.services img{
+    margin-top: 50px;
+    width: 130px;
+    height: 130px;
+}
+
+
+
+
+.services h4{
+    color: #212121;
+    padding: 10px;
+}
+
+.services p{
+    color: #212121;
+}
+
+
+.carousel{
+    background-color: #FAFAFA;
+    text-align: center;
+}
+
+#carousel h4{
+    color: #EF5350;
+}
+
+.carousel-item{
+    margin-top: 30px;
+   
+}
+
+/* COURSES */
+.courses{
+    background-color: #EEEEEE;
+    padding: 80px 0 120px;
+}
+
+.courses h4{
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    color: #FF5252;
+
+}
+
+.courses h5{
+    font-family: 'Assistant', sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.courses img{
+    margin-top: 40px;
+
+}
+
+
+#contact{
+    text-align: center;
+}
+
+/*FOOTER*/
+
+.page-footer{
+    padding: 25px;
+    background-color: #212121;
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.page-footer i{
+    color:#EF5350;
+    font-size: 20px;
+}
+
+
+.footer-copyright span{
+    color: #00BCD4;
+    
+}
+
+.services .respo{
+    height: 150px;
+    width: 150px;
+}
+
